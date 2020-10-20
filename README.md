@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+This is Kapil Rao i'm javascript developer from udaipur,rajasthan,india.
+I have experinced about the javascript related frameworks and currently i'm working as freelancer.
 <!--
 **kapilrao/kapilrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
